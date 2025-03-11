@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumanthGoudB
-- 👀 I’m interested in automating AWS services like AWS WORKSPACES & APPSTREAM 2.0 using PowerShell.
+- 👀 I’m interested in automating AWS services like AWS WORKSPACES & APPSTREAM 2.0 using PowerShell & Python.
 - 🌱 I’m currently learning Python Scripting and more about AWS Cloud. . 
 
 <!---
